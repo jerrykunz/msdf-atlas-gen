@@ -1,6 +1,6 @@
 
 #pragma once
-
+/*
 #ifndef MSDF_ATLAS_NO_ARTERY_FONT
 
 #include <msdfgen.h>
@@ -25,3 +25,4 @@ bool exportArteryFont(const FontGeometry *fonts, int fontCount, const msdfgen::B
 }
 
 #endif
+*/

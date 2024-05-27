@@ -1,13 +1,12 @@
-/build/
 /Debug/
 /Release/
+/Release OpenMP/
 /Debug Library/
 /Release Library/
+/Release Library OpenMP/
 /x86/
 /x64/
 .vs/
-.vscode/
-.DS_Store
 *.exe
 *.zip
 *.user
@@ -19,8 +18,18 @@
 *.VC.opendb
 *.VC.db
 /bin/*.lib
-/bin/msdf-atlas-gen
+/bin/msdfgen
 output.png
-CMakeUserPresets.json
+render.png
 out/
-/cmake-gen.bat
+build/
+build_xcode/
+skia/win32/
+skia/win64/
+
+bin/
+bin-int/
+obj/
+*.sln
+*.vcxproj
+*.vcxproj.filters
